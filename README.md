@@ -1,4 +1,21 @@
-## Hi there 👋
+<center><h1>Bem-Vindo ao Meu Perfil!</h1><center>
+
+
+<center>
+
+![Gif acenando](https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif?cid=790b7611u8zpmeg9hr3mgcwtoof2d42m6cyki9g99fr2gzdu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+</center>
+
+-------
+
+### Olá, me chamo Carlos Eduardo!
+### Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas.
+
+-------
+
+
+<!-- Cabeçalho -->
 
 <!--
 **DKFTX/DKFTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
