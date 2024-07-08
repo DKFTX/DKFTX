@@ -14,7 +14,7 @@
 
 -------
 
-![DKFTX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![DKFTX GitHub stats](https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=radical)
 
 
           
