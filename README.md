@@ -13,7 +13,7 @@
 ### Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas.
 
 -------
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fpt-br%2Fimg%2Ficones-logos-emojis%2Fempresas-tecnicas%2Flogotipo-redondo-linkedin&psig=AOvVaw2iTR4XCbMkYCiZgvJQObTZ&ust=1720537762684000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCR3-Tcl4cDFQAAAAAdAAAAABAE)
 
 <!-- Cabeçalho -->
 
