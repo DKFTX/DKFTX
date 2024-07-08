@@ -14,9 +14,9 @@
 
 -------
 
-![DKFTX GitHub stats](https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=radical)
+![DKFTX GitHub stats](https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=algolia)
 
           
 <!-- Cabeçalho -->
