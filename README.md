@@ -15,8 +15,7 @@
 -------
 
 <div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=algolia" />
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=algolia" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=algolia" /> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=algolia" />
 </div>
           
 <!-- Cabeçalho -->
