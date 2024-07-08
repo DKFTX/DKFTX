@@ -16,7 +16,7 @@
 
 ![DKFTX GitHub stats](https://github-readme-stats.vercel.app/api?username=DKFTX&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKFTX&layout=compact&theme=onedark)
 
           
 <!-- Cabeçalho -->
