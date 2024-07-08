@@ -1,11 +1,9 @@
 <center><h1>Bem-Vindo ao Meu Perfil!</h1><center>
 
+<div align="center">
+<img height="350em" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif?cid=790b7611u8zpmeg9hr3mgcwtoof2d42m6cyki9g99fr2gzdu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
 
-<center>
-
-![Gif acenando](https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif?cid=790b7611u8zpmeg9hr3mgcwtoof2d42m6cyki9g99fr2gzdu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-</center>
 
 -------
 
